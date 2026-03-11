@@ -6,6 +6,7 @@ Los datos fueron obtenidos del sitio de práctica Books to Scrape, diseñado par
 
 🎯 Objetivo del proyecto
 
+
 Construir un pipeline básico de obtención y preparación de datos que permita:
 
 Extraer información desde múltiples páginas web
